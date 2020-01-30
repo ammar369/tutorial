@@ -4,3 +4,5 @@ this is a
 test
 for using
 git!
+
+viewing and editing successful
